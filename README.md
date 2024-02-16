@@ -23,8 +23,4 @@ To view the project locally, clone this repository and open the `index.html` fil
 
 Contributions are welcome! Fork this repository, make changes, and submit a pull request. Feel free to open an issue for any suggestions or issues.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Happy coding!
+## Happy coding!
